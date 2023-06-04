@@ -45,7 +45,12 @@ Matrix Calculator is a application where you can easily calculate the <b><ul><li
 # :film_strip: SCREENSHOTS:
 ## Desktop:
 
-![Screenshot (25)](https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/e8890e15-c891-4976-aa86-833154b71eec)
+![Screenshot (25)](https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/e8890e15-c891-4976-aa86-833154b71eoec)
+
+## Output Recording
+
+https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/d142ac8c-b4a4-4c5b-a0b0-8ea6875e00e1
+
 
 
 
