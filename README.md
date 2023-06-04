@@ -1,5 +1,5 @@
 # : Matrix Calculation: Graphical Matrix Calculator :
-Matrix Calculator is a application where you can easily calculate the <b><ul><li>Matrix Addition</li> <li>Matrix Multiplication</li> <li>Matrix Subtraction</li> <li>Scalar Multiplication</li></ul></b> this calculator is used by python language. now there is a lot of large calculation in our project work and daily use of calculation so this Matrix calculator helps to calculate easily and decrease the time requirment to solve the problem.This calculator calculate the floating point number and and display the two point value after decimal
+Matrix Calculator is an application where you can easily calculate the <b><ul><li>Matrix Addition</li> <li>Matrix Multiplication</li> <li>Matrix Subtraction</li> <li>Scalar Multiplication</li></ul></b> this calculator is used by python language. now there is a lot of large calculation in our project work and daily use of calculation so this Matrix calculator helps to calculate easily and decrease the time requirement to solve the problem. This calculator calculates the floating point number and display the two-point value after decimal
 
 #  :Use of keys/button in this project :
 <table>
@@ -21,26 +21,28 @@ Matrix Calculator is a application where you can easily calculate the <b><ul><li
   </tr>
   <tr>
     <td>a + A Button</td>
-    <td>It gives a Addition of two matrix which we given as input</td>
+    <td>It gives an Addition of two matrices which we given as input</td>
   </tr>
   <tr>
     <td>a - A Button</td>
-    <td>It gives a Subtraction of two matrix which we given as input</td>
+    <td>It gives a Subtraction of two matrices which we given as input</td>
   </tr>
   <tr>
     <td>a * A Button</td>
-    <td>It gives a Multiplication of two matrix which we given as input</td>
+    <td>It gives a Multiplication of two matrices which we given as input</td>
   </tr>
   <tr>
     <td>n-Input</td>
-    <td>It takes a input for a scalar Multiplication</td>
+    <td>It takes an input for a scalar Multiplication</td>
   </tr>
   <tr>
     <td>Scalar Multiplication of n.a/td>
-    <td>It give s a scalar multiplication of matrix of a using numeric value n</td>
+    <td>It gives s a scalar multiplication of matrix of a using numeric value n</td>
   </tr>
  </table>
 
+# Overview
+Benefit of this project is to Make Calculation Easy to decrease the time taken to solve the complex problem of this program.So as we know the normal calculator in the system can't do MAtrix multiplication and we provide easy as pleasant to eye GUI Interface in this project 
 
 # :film_strip: SCREENSHOTS:
 ## Desktop:
@@ -50,9 +52,4 @@ Matrix Calculator is a application where you can easily calculate the <b><ul><li
 ## Output Recording
 
 https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/d142ac8c-b4a4-4c5b-a0b0-8ea6875e00e1
-
-
-
-
-
 
