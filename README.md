@@ -55,15 +55,16 @@ https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/d142a
 
 # How To Setup Enviroment
 <ol>
-  <li>Install the enviroment to run python as Anacond , VScode , etc.</li>
-  <li>downloard the python extension and .runner if you are using Vs code OR If you are using a Anaconda Open Spider or Jupytor</li>
-  <li>open the folder and Code File in the Enviroment which you install</li>
+  <li>Install the environment to run Python as Anacond , VScode, etc.</li>
+  <li> Download the python extension and .runner if you are using Vs code OR If you are using an Anaconda Open Spider or Jupytor</li>
+  <li> Open the folder and Code File in the environment which you install</li>
   <li>Downloard tkinter liberary using 'pip install tkinter' in anaconda PowerShell Prompt for anaconda and 'python install tkinter' in terminal for VScode</li>
   <li>Run the code and give input and solve the matrix calculation</li>
  </ol>
  
  # Contact
- ## Developer: Divyank Jain Singhvi
+ 
+## Developer: Divyank Jain Singhvi 
  <b>LinkedIn: https://www.linkedin.com/in/divyank-jain-4763a421a <br><br>
   Twitter: https://twitter.com/Divyank03534293</b>
 
