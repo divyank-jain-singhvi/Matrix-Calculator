@@ -1,7 +1,7 @@
 # : Matrix Calculation: Graphical Matrix Calculator :
-Matrix Calculator is an application where you can easily calculate the <b><ul><li>Matrix Addition</li> <li>Matrix Multiplication</li> <li>Matrix Subtraction</li> <li>Scalar Multiplication</li></ul></b> this calculator is used by python language. now there is a lot of large calculation in our project work and daily use of calculation so this Matrix calculator helps to calculate easily and decrease the time requirement to solve the problem. This calculator calculates the floating point number and display the two-point value after decimal
+Matrix Calculator is an application where you can easily calculate the <b><ul><li>Matrix Addition</li> <li>Matrix Multiplication</li> <li>Matrix Subtraction</li> <li>Scalar Multiplication</li></ul></b> this calculator is used by python language. now there is a lot of large calculation in our project work and daily use of calculation so this Matrix calculator helps to calculate easily and decrease the time requirement to solve the problem. This calculator calculates the floating point number and displays the two-point value after the decimal.
 
-#  :Use of keys/button in this project :
+#  :Features in this project :
 <table>
   <tr>
     <th>KEY</th>
@@ -42,14 +42,30 @@ Matrix Calculator is an application where you can easily calculate the <b><ul><l
  </table>
 
 # Overview
-Benefit of this project is to Make Calculation Easy to decrease the time taken to solve the complex problem of this program.So as we know the normal calculator in the system can't do MAtrix multiplication and we provide easy as pleasant to eye GUI Interface in this project 
-
+Benefit of this project is to Make Calculation Easy to decrease the time taken to solve the complex problem of this program. So as we know the normal calculator in the system can't do Matrix multiplication and we provide easy as pleasant to eye GUI Interface in this project <br><br>
+<b>Project Output is visible in a matrix form as a theoretical way of writing and if we entered the wrong numeric values we can change it at any time and get output according to the new input.</b>
 # :film_strip: SCREENSHOTS:
 ## Desktop:
 
-![Screenshot (25)](https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/e8890e15-c891-4976-aa86-833154b71eoec)
+![Screenshot (25)](https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/b26c65de-6b9d-4cca-b65b-34761d91af4e)
 
 ## Output Recording
 
 https://github.com/divyank-jain-singhvi/Matrix-Calculator/assets/119522879/d142ac8c-b4a4-4c5b-a0b0-8ea6875e00e1
+
+# How To Setup Enviroment
+<ol>
+  <li>Install the enviroment to run python as Anacond , VScode , etc.</li>
+  <li>downloard the python extension and .runner if you are using Vs code OR If you are using a Anaconda Open Spider or Jupytor</li>
+  <li>open the folder and Code File in the Enviroment which you install</li>
+  <li>Downloard tkinter liberary using 'pip install tkinter' in anaconda PowerShell Prompt for anaconda and 'python install tkinter' in terminal for VScode</li>
+  <li>Run the code and give input and solve the matrix calculation</li>
+ </ol>
+ 
+ # Contact
+ ## Developer: Divyank Jain Singhvi
+ <b>LinkedIn: https://www.linkedin.com/in/divyank-jain-4763a421a <br><br>
+  Twitter: https://twitter.com/Divyank03534293</b>
+
+
 
